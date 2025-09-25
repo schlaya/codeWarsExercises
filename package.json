@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "minor": "^1.2.3"
+  },
+  "scripts": {
+    "push": "node gitPush.ts"
   }
 }
